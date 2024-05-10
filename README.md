@@ -25,7 +25,7 @@
   [Questions](#questions)
 ## Installation
 
-Visit the URL of the site and click the "Install" button at the top left corner of the page.  
+Visit the URL of the site and click the "Install" button at the top left corner of the page.  Site URL: https://pwajustatexteditor-f3ec9501427f.herokuapp.com/
 
 ## Usage 
 
